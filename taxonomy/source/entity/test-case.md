@@ -19,7 +19,7 @@
 * [Effectiveness](../../../attributes/testing/test-case/report/effectiveness.md)
 * [Execution time](../../../attributes/testing/test-case/execution/execution-time.md)
 * [Failure frequency](../../../attributes/testing/test-case/report/failure-frequency.md)
-* [Fault detection](../../../attributes/testing/test-case/property/fault-detection.md)
+* [Fault detection](../../../attributes/testing/test-case/property/estimated-fault-detection.md)
 * [Functional coverage](../../../attributes/relational/test-case/coverage/functional-coverage.md)
 * [GUI coverage](../../../attributes/relational/test-case/coverage/gui-coverage.md)
 * [Historical coverage](../../../attributes/relational/test-case/coverage/historical-coverage.md)

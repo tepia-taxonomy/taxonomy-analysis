@@ -15,7 +15,7 @@
 * [Coverage profile](../../../attributes/relational/test-case/coverage/coverage-profile.md)
 * [Data patterns](../../../attributes/sut/inputs/data-patterns.md)
 * [Database coverage](../../../attributes/relational/test-case/coverage/database-coverage.md)
-* [Fault detection](../../../attributes/testing/test-case/property/fault-detection.md)
+* [Fault detection](../../../attributes/testing/test-case/property/estimated-fault-detection.md)
 * [Fault probabilility](../../../attributes/relational/fault/fault-probability.md)
 * [Fault severity](../../../attributes/relational/fault/fault-severity.md)
 * [Frequency of use](../../../attributes/sut/program/frequency-of-use.md)

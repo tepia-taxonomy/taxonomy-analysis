@@ -5,7 +5,6 @@
 * [Active blocks](../../../attributes/relational/invocation/active-blocks.md)
 * [Cost](../../../attributes/testing/test-case/execution/cost.md)
 * [Fault age](../../../attributes/relational/fault/fault-age.md)
-* [Fault detection](../../../attributes/testing/test-case/property/fault-detection.md)
 * [Fault severity](../../../attributes/relational/fault/fault-severity.md)
 * [Frequency of use](../../../attributes/sut/program/frequency-of-use.md)
 * [Joint execution](../../../attributes/testing/test-case/dependency/joint-execution.md)

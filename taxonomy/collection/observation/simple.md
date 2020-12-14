@@ -10,7 +10,7 @@
 * [Effectiveness](../../../attributes/testing/test-case/report/effectiveness.md)
 * [Execution time](../../../attributes/testing/test-case/execution/execution-time.md)
 * [Failure frequency](../../../attributes/testing/test-case/report/failure-frequency.md)
-* [Fault detection](../../../attributes/testing/test-case/property/fault-detection.md)
+* [Fault detection](../../../attributes/testing/test-case/property/estimated-fault-detection.md)
 * [Frequency of use](../../../attributes/sut/program/frequency-of-use.md)
 * [Historical fails](../../../attributes/testing/test-case/history/historical-fails.md)
 * [Historical verdicts](../../../attributes/testing/test-case/history/historical-verdicts.md)

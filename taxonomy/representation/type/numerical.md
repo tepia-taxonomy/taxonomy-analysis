@@ -26,6 +26,7 @@
 * [Failure frequency](../../../attributes/testing/test-case/report/failure-frequency.md)
 * [Fault age](../../../attributes/relational/fault/fault-age.md)
 * [Fault count](../../../attributes/relational/fault/fault-count.md)
+* [Fault detection](../../../attributes/testing/test-case/property/estimated-fault-detection.md)
 * [Fault index](../../../attributes/relational/fault/fault-index.md)
 * [Fault probabilility](../../../attributes/relational/fault/fault-probability.md)
 * [Fault-proneness](../../../attributes/sut/class/fault-proneness.md)
