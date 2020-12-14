@@ -1,4 +1,4 @@
-# Type of text
+# Type of test
 
 ## Description
 
