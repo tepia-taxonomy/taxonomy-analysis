@@ -2,6 +2,6 @@
 
 ## List of attributes
 
-* [Component risk](../../../attributes/linking/risk/component-risk.md)
-* [Risk exposure](../../../attributes/linking/risk/risk-exposure.md)
-* [Risk coverage](../../../attributes/linking/risk/risk-coverage.md)
+* [Component risk](../../../attributes/relational/risk/component-risk.md)
+* [Risk exposure](../../../attributes/relational/risk/risk-exposure.md)
+* [Risk coverage](../../../attributes/relational/risk/risk-coverage.md)

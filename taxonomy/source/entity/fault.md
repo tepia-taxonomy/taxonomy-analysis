@@ -2,9 +2,9 @@
 
 ## List of attributes
 
-* [Fault age](../../../attributes/linking/fault/fault-age.md)
-* [Fault count](../../../attributes/linking/fault/fault-count.md)
-* [Fault index](../../../attributes/linking/fault/fault-index.md)
-* [Fault probabilility](../../../attributes/linking/fault/fault-probability.md)
-* [Fault severity](../../../attributes/linking/fault/fault-severity.md)
-* [Killed mutants](../../../attributes/linking/fault/killed-mutants.md)
+* [Fault age](../../../attributes/relational/fault/fault-age.md)
+* [Fault count](../../../attributes/relational/fault/fault-count.md)
+* [Fault index](../../../attributes/relational/fault/fault-index.md)
+* [Fault probabilility](../../../attributes/relational/fault/fault-probability.md)
+* [Fault severity](../../../attributes/relational/fault/fault-severity.md)
+* [Killed mutants](../../../attributes/relational/fault/killed-mutants.md)
