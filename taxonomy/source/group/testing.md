@@ -1,0 +1,33 @@
+# Dimension 1: Source - Group: testing
+
+## List of attributes
+
+* [Age](../../../attributes/testing/test-case/property/age.md)
+* [Allocation time](../../../attributes/testing/test-case/execution/allocation-time.md)
+* [Code dependencies](../../../attributes/testing/test-case/dependency/code-dependencies.md)
+* [Code similarity](../../../attributes/testing/test-case/similarity/code-similarity.md)
+* [Cost](../../../attributes/testing/test-case/execution/cost.md)
+* [Effectiveness](../../../attributes/testing/test-case/report/effectiveness.md)
+* [Execution time](../../../attributes/testing/test-case/execution/execution-time.md)
+* [Failure frequency](../../../attributes/testing/test-case/report/failure-frequency.md)
+* [Fault detection](../../../attributes/testing/test-case/property/fault-detection.md)
+* [Historical effectiveness](../../../attributes/testing/test-case/history/historical-effectiveness.md)
+* [Historical executions](../../../attributes/testing/test-case/history/historical-executions.md)
+* [Historical fails](../../../attributes/testing/test-case/history/historical-fails.md)
+* [Historical verdicts](../../../attributes/testing/test-case/history/historical-verdicts.md)
+* [Input similarity](../../../attributes/testing/test-case/similarity/input-similarity.md)
+* [Joint execution](../../../attributes/testing/test-case/dependency/joint-execution.md)
+* [Method calls](../../../attributes/sut-testing/invocation/method-calls.md)
+* [Previous execution](../../../attributes/testing/test-case/history/previous-execution.md)
+* [Previous priority](../../../attributes/testing/test-case/history/previous-priority.md)
+* [Resources](../../../attributes/testing/test-case/property/resources.md)
+* [Resource utilisation](../../../attributes/testing/test-case/execution/resource-utilisation.md)
+* [Size](../../../attributes/testing/test-case/property/size.md)
+* [Static priority](../../../attributes/testing/test-case/property/static-priority.md)
+* [Status](../../../attributes/testing/test-case/property/status.md)
+* [Text similarity](../../../attributes/testing/test-case/similarity/text-similarity.md)
+* [Textual description](../../../attributes/testing/test-case/property/textual-description.md)
+* [Total time](../../../attributes/testing/test-case/execution/total-time.md)
+* [Type of test](../../../attributes/testing/test-case/property/type-of-test.md)
+* [Verdict pattern](../../../attributes/testing/test-case/dependency/verdict-pattern.md)
+

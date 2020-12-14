@@ -1,0 +1,31 @@
+# Dimension 2: Collection - Artefact: source code
+
+## List of attributes
+
+* [Additional coverage](../../../attributes/linking/test-case/coverage/additional-coverage.md)
+* [Buggy change](../../../attributes/sut/change/buggy-change.md)
+* [Change calls](../../../attributes/linking/invocation/change-calls.md)
+* [Change coverage](../../../attributes/linking/test-case/coverage/change-coverage.md)
+* [Change frequency](../../../attributes/linking/change/change-frequency.md)
+* [Changed methods](../../../attributes/linking/change/changed-methods.md)
+* [Class size](../../../attributes/sut/class/class-size.md)
+* [Code similarity](../../../attributes/testing/test-case/similarity/code-similarity.md)
+* [Cohesion](../../../attributes/sut/program/cohesion.md)
+* [Complexity](../../../attributes/sut/program/complexity.md)
+* [Component risk](../../../attributes/linking/risk/component-risk.md)
+* [Coupling between object classes (CBO)](../../../attributes/sut/class/cbo.md)
+* [Depth of inheritance tree (DIT)](../../../attributes/sut/class/dit.md)
+* [Fault-proneness](../../../attributes/sut/class/fault-proneness.md)
+* [Lack of cohesion in methods (LCOM)](../../../attributes/sut/class/lcom.md)
+* [Method calls](../../../attributes/linking/invocation/method-calls.md)
+* [Number of methods inherited (NMI)](../../../attributes/sut/class/nmi.md)
+* [Number of methods overriden (NMO)](../../../attributes/sut/class/nmo.md)
+* [Number of children (NOC)](../../../attributes/sut/class/noc.md)
+* [Publicly inherited methods (PIM)](../../../attributes/sut/class/pim.md)
+* [Response for a class (RFC)](../../../attributes/sut/class/rfc.md)
+* [Size](../../../attributes/testing/test-case/property/size.md)
+* [Text score](../../../attributes/linking/change/text-score.md)
+* [Weighted attributes per class (WAC)](../../../attributes/sut/class/wac.md)
+* [Weighted coverage](../../../attributes/linking/test-case/coverage/weighted-coverage.md)
+* [Weighted methods per class (WMC)](../../../attributes/sut/class/wmc.md)
+

@@ -1,0 +1,14 @@
+# Dimension 3: Representation - Type: categorical
+
+## List of attributes
+
+* [Active blocks](../../../attributes/linking/invocation/active-blocks.md)
+* [Cost](../../../attributes/testing/test-case/execution/cost.md)
+* [Fault age](../../../attributes/linking/fault/fault-age.md)
+* [Fault detection](../../../attributes/testing/test-case/property/fault-detection.md)
+* [Fault severity](../../../attributes/linking/fault/fault-severity.md)
+* [Frequency of use](../../../attributes/sut/program/frequency-of-use.md)
+* [Joint execution](../../../attributes/testing/test-case/dependency/joint-execution.md)
+* [Total time](../../../attributes/testing/test-case/execution/total-time.md)
+* [Type of system](../../../attributes/sut/program/type-of-system.md)
+* [User-defined coverage](../../../attributes/linking/test-case/coverage/user-defined-coverage.md)
