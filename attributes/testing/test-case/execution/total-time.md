@@ -1,4 +1,4 @@
-# Name of the attribute
+# Total time
 
 ## Description
 
