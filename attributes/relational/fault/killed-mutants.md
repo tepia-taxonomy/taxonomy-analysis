@@ -1,4 +1,4 @@
-# Name of the attribute
+# Killed mutants
 
 ## Description
 
