@@ -4,7 +4,6 @@
 
 * [Active blocks](../../../attributes/relational/invocation/active-blocks.md)
 * [Allocation time](../../../attributes/testing/test-case/execution/allocation-time.md)
-* [Code dependencies](../../../attributes/testing/test-case/dependency/code-dependencies.md)
 * [Code similarity](../../../attributes/testing/test-case/similarity/code-similarity.md)
 * [Complexity coverage](../../../attributes/relational/test-case/coverage/complexity-coverage.md)
 * [Component risk](../../../attributes/relational/risk/component-risk.md)
@@ -21,6 +20,7 @@
 * [Frequency of use](../../../attributes/sut/program/frequency-of-use.md)
 * [Functional coverage](../../../attributes/relational/test-case/coverage/functional-coverage.md)
 * [GUI coverage](../../../attributes/relational/test-case/coverage/gui-coverage.md)
+* [Implementation dependencies](../../../attributes/testing/test-case/dependency/implementation-dependencies.md)
 * [Input coverage](../../../attributes/relational/test-case/coverage/input-coverage.md)
 * [Input similarity](../../../attributes/testing/test-case/similarity/input-similarity.md)
 * [Killed mutants](../../../attributes/relational/fault/killed-mutants.md)

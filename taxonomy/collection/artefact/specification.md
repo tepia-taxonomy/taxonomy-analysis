@@ -3,7 +3,6 @@
 ## List of attributes
 
 * [Change frequency](../../../attributes/relational/change/change-frequency.md)
-* [Code dependencies](../../../attributes/testing/test-case/dependency/code-dependencies.md)
 * [Complexity coverage](../../../attributes/relational/test-case/coverage/complexity-coverage.md)
 * [Component risk](../../../attributes/relational/risk/component-risk.md)
 * [Configuration coverage](../../../attributes/relational/test-case/coverage/configuration-coverage.md)
@@ -20,6 +19,7 @@
 * [Frequency of use](../../../attributes/sut/program/frequency-of-use.md)
 * [Functional coverage](../../../attributes/relational/test-case/coverage/functional-coverage.md)
 * [Historical coverage](../../../attributes/relational/test-case/coverage/historical-coverage.md)
+* [Implementation dependencies](../../../attributes/testing/test-case/dependency/implementation-dependencies.md)
 * [Input similarity](../../../attributes/testing/test-case/similarity/input-similarity.md)
 * [Instability](../../../attributes/sut/component/instability.md)
 * [Issue score](../../../attributes/relational/change/issue-score.md)
