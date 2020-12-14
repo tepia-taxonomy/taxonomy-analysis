@@ -15,7 +15,7 @@
 * [Instability](../../../attributes/sut/component/instability.md)
 * [Invocations](../../../attributes/sut/class/invocations.md)
 * [Lack of cohesion in methods (LCOM)](../../../attributes/sut/class/lcom.md)
-* [Method calls](../../../attributes/sut-testing/invocation/method-calls.md)
+* [Method calls](../../../attributes/relational/invocation/method-calls.md)
 * [Number of methods inherited (NMI)](../../../attributes/sut/class/nmi.md)
 * [Number of methods overriden (NMO)](../../../attributes/sut/class/nmo.md)
 * [Number of children (NOC)](../../../attributes/sut/class/noc.md)

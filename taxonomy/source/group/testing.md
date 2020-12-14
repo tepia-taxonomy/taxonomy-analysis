@@ -17,7 +17,7 @@
 * [Implementation dependencies](../../../attributes/testing/test-case/dependency/implementation-dependencies.md)
 * [Input similarity](../../../attributes/testing/test-case/similarity/input-similarity.md)
 * [Joint execution](../../../attributes/testing/test-case/dependency/joint-execution.md)
-* [Method calls](../../../attributes/sut-testing/invocation/method-calls.md)
+* [Method calls](../../../attributes/relational/invocation/method-calls.md)
 * [Previous execution](../../../attributes/testing/test-case/history/previous-execution.md)
 * [Previous priority](../../../attributes/testing/test-case/history/previous-priority.md)
 * [Resources](../../../attributes/testing/test-case/property/resources.md)
