@@ -1,5 +1,5 @@
 # TePIA taxonomy
-A taxonomy of Test case Information Attributes
+A taxonomy of Test case Prioritisation Information Attributes
 
 ## Note
 
