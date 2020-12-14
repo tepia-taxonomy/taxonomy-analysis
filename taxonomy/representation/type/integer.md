@@ -10,7 +10,7 @@
 * [Depth of inheritance tree (DIT)](../../../attributes/sut/class/dit.md)
 * [Historical executions](../../../attributes/testing/test-case/history/historical-executions.md)
 * [Historical fails](../../../attributes/testing/test-case/history/historical-fails.md)
-* [Implementation dependencies](../../../attributes/testing/test-case/dependency/code-dependencies.md)
+* [Implementation dependencies](../../../attributes/testing/test-case/dependency/implementation-dependencies.md)
 * [Input coverage](../../../attributes/relational/test-case/coverage/input-coverage.md)
 * [Number of methods inherited (NMI)](../../../attributes/sut/class/nmi.md)
 * [Number of methods overriden (NMO)](../../../attributes/sut/class/nmo.md)
