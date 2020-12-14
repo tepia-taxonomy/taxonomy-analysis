@@ -36,7 +36,7 @@
 * [Historical coverage](../../../attributes/relational/test-case/coverage/historical-coverage.md)
 * [Historical effectiveness](../../../attributes/testing/test-case/history/historical-effectiveness.md)
 * [Historical executions](../../../attributes/testing/test-case/history/historical-executions.md)
-* [Implementation dependencies](../../../attributes/testing/test-case/dependency/code-dependencies.md)
+* [Implementation dependencies](../../../attributes/testing/test-case/dependency/implementation-dependencies.md)
 * [Input coverage](../../../attributes/relational/test-case/coverage/input-coverage.md)
 * [Input similarity](../../../attributes/testing/test-case/similarity/input-similarity.md)
 * [Instability](../../../attributes/sut/component/instability.md)
