@@ -5,7 +5,7 @@ S. Thomas, H. Hemmati, A. Hassan. Static test case prioritization using topic mo
 # List of attributes
 
 1 Testing information:
-* [Text similarity](../../attributes/relational/test-case/similarity/text-similarity.md)
+* [Text similarity](../../attributes/testing/test-case/similarity/text-similarity.md)
 
 # Learning approach
 
