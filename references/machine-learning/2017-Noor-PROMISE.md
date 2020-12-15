@@ -13,7 +13,7 @@ T.B. Noor, H. Hemmati. Studying test case failure prediction for test case prior
 2 Relational information:
 * [Change coverage](../../attributes/relational/test-case/coverage/change-coverage.md)
 * [Coverage percentage](../../attributes/relational/test-case/coverage/coverage-percentage.md)
-* [Failing calls](../../attributes/relational/test-case/coverage/failing-calls.mc)
+* [Failing calls](../../attributes/relational/test-case/coverage/failing-calls.md)
 * [Weighted coverage](../../attributes/relational/test-case/coverage/weighted-coverage.md)
 
 # Learning approach
