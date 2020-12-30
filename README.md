@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/321306840.svg)](https://zenodo.org/badge/latestdoi/321306840)
+
 # TePIA taxonomy
 A taxonomy of Test case Prioritisation Information Attributes
 
