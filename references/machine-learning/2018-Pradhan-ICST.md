@@ -12,5 +12,6 @@ D. Pradhan, S. Wang, S. Ali, T. Yue, M. Liaaen. REMAP: using rule mining and mul
 # Learning approach
 
 * Type of learning: unsupervised
+* Technique(s) and algorithm(s): association rule mining with Ripper
 * Number of features: 315-8322
 * Industrial evaluation: yes

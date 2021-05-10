@@ -19,5 +19,6 @@ F. Palma, T. Abdou, A. Bener, J. Maidens, S. Liu. An improvement to test case fa
 # Learning approach
 
 * Type of learning: supervised
+* Technique(s) and algorithm(s): classification with logistic regression
 * Number of features: 8
 * Industrial evaluation: no

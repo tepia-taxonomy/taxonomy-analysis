@@ -15,5 +15,6 @@ R. Carlson, H. Do, A. Denton. A clustering approach to improving test case prior
 # Learning approach
 
 * Type of learning: unsupervised
+* Technique(s) and algorithm(s): agglomerative hierarchical clustering
 * Number of features: N/A
 * Industrial evaluation: yes

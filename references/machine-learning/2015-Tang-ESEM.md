@@ -10,5 +10,6 @@ X. Tang, S. Wang, K. Mao. Will this bug-fixing change break regression testing? 
 # Learning approach
 
 * Type of learning: supervised
+* Technique(s) and algorithm(s): classification with support vector machines/naive Bayes/alternating decision tree/logistic regression
 * Number of features: 18
 * Industrial evaluation: no

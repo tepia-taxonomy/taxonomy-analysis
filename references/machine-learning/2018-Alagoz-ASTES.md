@@ -12,6 +12,7 @@ I. Alagöz, T. Hoiss, R. German. Improving system reliability assessment of safe
 
 # Learning approach
 
-* Type of learning:  combined (active learning + supervised learning)
+* Type of learning:  combined (active learning + unsupervised learning)
+* Technique(s) and algorithm(s): clustering and classification with specific method
 * Number of features: 6
 * Industrial evaluation: yes

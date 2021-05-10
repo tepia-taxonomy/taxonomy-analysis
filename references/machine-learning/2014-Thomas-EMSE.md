@@ -10,5 +10,6 @@ S. Thomas, H. Hemmati, A. Hassan. Static test case prioritization using topic mo
 # Learning approach
 
 * Type of learning: unsupervised
+* Technique(s) and algorithm(s): topic modelling with latent dirichlet allocation
 * Number of features: 21-48
 * Industrial evaluation: no

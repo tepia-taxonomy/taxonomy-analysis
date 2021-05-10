@@ -19,5 +19,6 @@ T.B. Noor, H. Hemmati. Studying test case failure prediction for test case prior
 # Learning approach
 
 * Type of learning: supervised
+* Technique(s) and algorithm(s): classification with logistic regression
 * Number of features: 8
 * Industrial evaluation: no

@@ -12,5 +12,6 @@ L. Xiao, H. Miao, T. Shi, Y. Hong. LSTM-based deep learning for spatial-temporal
 # Learning approach
 
 * Type of learning: supervised
+* Technique(s) and algorithm(s): deep learning for classification with recurrent neural network (LSTM)
 * Number of features: 3
 * Industrial evaluation: yes

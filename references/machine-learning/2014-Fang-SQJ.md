@@ -10,5 +10,6 @@ C. Fang, Z. Chen, K. Wu, Z. Zhao. Similarity-based test case prioritization usin
 # Learning approach
 
 * Type of learning: unsupervised
+* Technique(s) and algorithm(s): clustering with greedy-aided clustering (proposed method)
 * Number of features: N/A
 * Industrial evaluation: no

@@ -14,5 +14,6 @@ P. Kandil, S. Moussa, N. Badr. Cluster-based test cases prioritization and selec
 # Learning approach
 
 * Type of learning: unsupervised
+* Technique(s) and algorithm(s): clustering with k-means
 * Number of features: 28-45
 * Industrial evaluation: no

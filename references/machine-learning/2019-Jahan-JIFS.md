@@ -13,5 +13,6 @@ H. Jahan, Z. Feng, S.M. Hasan Mahmud, P. Dong. Version specific test case priori
 # Learning approach
 
 * Type of learning: supervised
+* Technique(s) and algorithm(s): classification with artificial neural network
 * Number of features: 7
 * Industrial evaluation: no

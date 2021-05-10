@@ -10,5 +10,6 @@ D. Leon, A. Podgurski. A comparison of coverage-based and distribution-based tec
 # Learning approach
 
 * Type of learning: unsupervised
+* Technique(s) and algorithm(s): hierarchical agglomerative clustering with average linkage
 * Number of features: 2214-12996
 * Industrial evaluation: no

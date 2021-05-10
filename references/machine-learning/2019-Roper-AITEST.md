@@ -14,5 +14,6 @@ M. Roper. Using machine learning to classify test outcomes. IEEE International C
 # Learning approach
 
 * Type of learning: combined (unsupervised learning + semi-supervised learning)
+* Technique(s) and algorithm(s): hierarchical agglomerative clustering with average linkage, classification algorithm not specified
 * Number of features: N/A
 * Industrial evaluation: no

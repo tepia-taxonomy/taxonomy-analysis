@@ -11,5 +11,6 @@ P. Tonella, P. Avesani, A. Susi. Using the case-based ranking methodology for te
 # Learning approach
 
 * Type of learning: supervised
+* Technique(s) and algorithm(s): classification with rankboost
 * Number of features: 2
 * Industrial evaluation: no

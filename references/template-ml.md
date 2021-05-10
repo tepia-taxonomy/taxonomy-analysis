@@ -27,5 +27,6 @@ List of attributes appearing in this reference *(delete this text)*
 # Learning approach
 
 * Type of learning: unsupervised / semi-supervised / supervised / reinforcement learning / combined (specify which ones)
+* Technique(s) and algorithm(s):
 * Number of features: total number of features
 * Industrial evaluation: yes / no

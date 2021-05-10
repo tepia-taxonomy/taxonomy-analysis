@@ -10,5 +10,6 @@ X. Zhao, Z. Wang, X. Fan, Z. Wang. A clustering-bayesian network based approach 
 # Learning approach
 
 * Type of learning: unsupervised
+* Technique(s) and algorithm(s): agglomerative hierarchical clustering
 * Number of features: N/A
 * Industrial evaluation: no

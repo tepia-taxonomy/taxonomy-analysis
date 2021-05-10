@@ -14,5 +14,6 @@ Y. Pang, X. Xue, A.S. Namin. Identifying effective test cases through k-means cl
 # Learning approach
 
 * Type of learning: unsupervised
+* Technique(s) and algorithm(s): clustering with k-means
 * Number of features: 1
 * Industrial evaluation: no

@@ -13,5 +13,6 @@ S. Chen, Z. Chen, Z. Zhihong, B. Xu, Y. Feng. Using semi-supervised clustering t
 # Learning approach
 
 * Type of learning: semi-supervised
+* Technique(s) and algorithm(s): clustering with semi-supervised k-means
 * Number of features: 236-248
 * Industrial evaluation: no

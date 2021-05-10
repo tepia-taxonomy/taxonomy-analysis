@@ -11,5 +11,6 @@ A. Bhattacharyya, C. Amza. PReT: A tool for automatic phase-based regression tes
 # Learning approach
 
 * Type of learning: combined (unsupervised learning + supervised learning)
+* Technique(s) and algorithm(s): clustering with k-means (adapted) and recurrent neural network for classification
 * Number of features: 5
 * Industrial evaluation: no

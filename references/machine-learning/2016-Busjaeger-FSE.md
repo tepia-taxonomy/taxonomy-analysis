@@ -17,5 +17,6 @@ B. Busjaeger, T. Xie. Learning for test prioritization: An industrial case study
 # Learning approach
 
 * Type of learning: supervised
+* Technique(s) and algorithm(s): classification with support vector machine (SVM_map)
 * Number of features: 5
 * Industrial evaluation: yes

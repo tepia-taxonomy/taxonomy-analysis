@@ -11,6 +11,7 @@ D. Pradhan, S. Wang, S. Ali, T. Yue, M. Liaaen. Employing rule mining and multi-
 
 # Learning approach
 
-* Type of learning: unsupervised
+* Type of learning: supervised
+* Technique(s) and algorithm(s): associative classification with C4.5, ripper and PART.
 * Number of features: 315-8322
 * Industrial evaluation: yes

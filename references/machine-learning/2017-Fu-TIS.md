@@ -11,5 +11,6 @@ W. Fu, H. Yu, G. Fan, X. Ji. Coverage-based clustering and scheduling approach f
 # Learning approach
 
 * Type of learning: unsupervised
+* Technique(s) and algorithm(s): agglomerative hierarchical clustering
 * Number of features: 176-12407
 * Industrial evaluation: no

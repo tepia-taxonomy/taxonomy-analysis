@@ -11,5 +11,6 @@ F. Wang, S-C. Yang, Y-L. Yang. Regression testing based on neural networks and p
 # Learning approach
 
 * Type of learning: supervised
+* Technique(s) and algorithm(s): classification with artificial neural network
 * Number of features: N/A
 * Industrial evaluation: no

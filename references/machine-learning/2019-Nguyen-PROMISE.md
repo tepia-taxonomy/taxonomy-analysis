@@ -10,5 +10,6 @@ A. Nguyen, B. Le, V. Nguyen. Prioritizing automated user interface tests using r
 # Learning approach
 
 * Type of learning: reinforcement learning
+* Technique(s) and algorithm(s): classification with RLTCP (proposed method), comparison to RETECS.
 * Number of features: N/A
 * Industrial evaluation: no

@@ -12,5 +12,6 @@ F. Toure, M. Badri. Prioritizing unit testing effort using sofware metrics and m
 # Learning approach
 
 * Type of learning: supervised
+* Technique(s) and algorithm(s): classification with k-nearest neighbors/multivariate logistic regression/naive Bayes
 * Number of features: 3
 * Industrial evaluation: no

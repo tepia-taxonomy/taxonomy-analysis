@@ -18,5 +18,6 @@ A. Singh, R.K.Bhatia, A. Singhrova. Machine learning based test case prioritizat
 # Learning approach
 
 * Type of learning: supervised
+* Technique(s) and algorithm(s): classification with support vector machine
 * Number of features: 9
 * Industrial evaluation: no

@@ -10,5 +10,6 @@ S. Yoo, M. Harman, P. Tonella, A. Susi. Clustering test cases to achieve effecti
 # Learning approach
 
 * Type of learning: unsupervised
+* Technique(s) and algorithm(s): agglomerative hierarchical clustering
 * Number of features: 1
 * Industrial evaluation: no

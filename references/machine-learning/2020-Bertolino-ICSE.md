@@ -13,5 +13,6 @@
 # Learning approach
 
 * Type of learning: supervised, reinforcement
+* Technique(s) and algorithm(s): classification with random forest/rankboost/ranknet/MART/L-MART/k-nearest neighbors, comparison to three versions of RETECS
 * Number of features: 50
 * Industrial evaluation: no

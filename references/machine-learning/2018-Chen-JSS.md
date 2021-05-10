@@ -10,5 +10,6 @@ J. Chen, L. Zhu, T. Chen, D. Towey, F.C. Kuo, R. Huang, Y. Guo. Test case priori
 # Learning approach
 
 * Type of learning: unsupervised
+* Technique(s) and algorithm(s): clustering with k-means and k-medoids
 * Number of features: 2
 * Industrial evaluation: no

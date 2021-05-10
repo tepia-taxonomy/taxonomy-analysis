@@ -13,5 +13,6 @@ A.R. Lenz, A. Pozo, S.R. Vergilio. Linking software testing results with a machi
 # Learning approach
 
 * Type of learning: combined (unsupervised learning + supervised learning)
+* Technique(s) and algorithm(s): clustering with k-means/expectation-maximization/COBWEB; classification with J48 (C4.5)
 * Number of features: 1-5
 * Industrial evaluation: no

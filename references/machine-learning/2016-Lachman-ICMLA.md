@@ -16,5 +16,6 @@ R. Lachman, M. Nieke, C. Seidl, I. Schaefer, S. Schulze. System-level test case 
 # Learning approach
 
 * Type of learning: supervised
+* Technique(s) and algorithm(s): classification with support vector machine (SVM_rank)
 * Number of features: 3501-3505
 * Industrial evaluation: yes

@@ -14,5 +14,6 @@ S. Ali, Y. Hafeez, S. Hussain, S. Yang. Enhanced regression testing technique fo
 # Learning approach
 
 * Type of learning: unsupervised
+* Technique(s) and algorithm(s): clustering with k-means
 * Number of features: 4-7
 * Industrial evaluation: yes

@@ -14,5 +14,6 @@ M. Mahdieh, S.H. Mirian-Hosseinabadi, K. Etemadi, A. Nosrati, S. Jalali. Incorpo
 # Learning approach
 
 * Type of learning: supervised
+* Technique(s) and algorithm(s): classification with artificial neural network
 * Number of features: 104
 * Industrial evaluation: no

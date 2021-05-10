@@ -10,5 +10,6 @@ R.H. Rosero, O.S. Gomez, G. Rodriguez. Regression testing of database applicatio
 # Learning approach
 
 * Type of learning: unsupervised
+* Technique(s) and algorithm(s): clustering with expectation-maximization
 * Number of features: N/A
 * Industrial evaluation: no

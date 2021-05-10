@@ -12,5 +12,6 @@ H. Spieker, A. Gotlieb. Reinforcement learning for automatic test case prioritiz
 # Learning approach
 
 * Type of learning: reinforcement learning
+* Technique(s) and algorithm(s): classification with RETECS (proposed method) that includes a neural network.
 * Number of features: 3
 * Industrial evaluation: yes

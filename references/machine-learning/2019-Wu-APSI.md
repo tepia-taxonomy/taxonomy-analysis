@@ -11,5 +11,6 @@
 # Learning approach
 
 * Type of learning: reinforcement learning
+* Technique(s) and algorithm(s): classification with RETECS (new reward function)
 * Number of features: 3
 * Industrial evaluation: yes
