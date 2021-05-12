@@ -8,3 +8,14 @@ D. Pradhan, S. Wang, S. Ali, T. Yue, M. Liaaen. REMAP: using rule mining and mul
 * [Historical effectiveness](../../attributes/testing/test-case/history/historical-effectiveness.md)
 * [Historical verdicts](../../attributes/testing/test-case/history/historical-verdicts.md)
 * [Verdict pattern](../../attributes/testing/test-case/dependency/verdict-pattern.md)
+
+# SUT information
+
+* Domain: Video conferencing software
+* Language: C
+* Size: Average 3M LOC
+* Test suite: 60 and 624 test cases.
+
+# Dataset information
+
+* ABB and GSDTSR datasets: https://bitbucket.org/HelgeS/atcs-data/src/master/

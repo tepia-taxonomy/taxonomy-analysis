@@ -10,3 +10,10 @@ E. Engström, P. Runeson, A. Ljung. Improving regression testing transparency an
 * [Historical executions](../../attributes/testing/test-case/history/historical-executions.md)
 * [Static priority](../../attributes/testing/test-case/property/static-priority.md)
 
+# SUT information
+
+* Domain: Mobile (embedded real-time software)
+* Language: N/A
+* Size: N/A
+* Test suite: 2,114 test cases
+

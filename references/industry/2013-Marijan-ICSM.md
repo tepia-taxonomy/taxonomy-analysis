@@ -7,3 +7,10 @@ D. Marijan, A. Gotlieb, S. Sen. Test case prioritization for continuous regressi
 1 Testing information:
 * [Execution time](../../attributes/testing/test-case/execution/execution-time.md)
 * [Historical verdicts](../../attributes/testing/test-case/history/historical-verdicts.md)
+
+# SUT information
+
+* Domain: Video conferencing software
+* Language: N/A
+* Size: N/A
+* Test suite: 100 test cases

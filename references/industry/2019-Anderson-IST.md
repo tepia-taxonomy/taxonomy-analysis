@@ -6,3 +6,10 @@ J. Anderson, M. Azizi, S. Salem, H. Do. On the use of usage patterns from teleme
 
 1 Relational information:
 * [Usage patterns](../../attributes/relational/program/usage-patterns.md)
+
+# SUT information
+
+* Domain: Finance, civil project management
+* Language: N/A
+* Size: 35,122 LOC
+* Test suite: 95 test cases

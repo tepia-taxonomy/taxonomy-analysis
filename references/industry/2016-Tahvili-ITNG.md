@@ -11,3 +11,10 @@ S. Tahvili, W. Afzal, M. Saadatmand, M Bohlin. Towards earlier fault detection b
 
 2 Relational information:
 * [User-defined coverage](../../attributes/relational/test-case/coverage/user-defined-coverage.md)
+
+# SUT information
+
+* Domain: Automotive
+* Language: N/A
+* Size: N/A
+* Test suite: 86 integration test cases

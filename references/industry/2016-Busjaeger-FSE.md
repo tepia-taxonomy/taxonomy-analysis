@@ -13,3 +13,10 @@ B. Busjaeger, T. Xie. Learning for test prioritization: An industrial case study
 2 Relational information:
 * [Change coverage](../../attributes/relational/test-case/coverage/change-coverage.md)
 * [Text score](../../attributes/relational/change/text-score.md)
+
+# SUT information
+
+* Domain: Sales (customer relationship management)
+* Language: Mostly Java, but also PL/SQL, Javascript and Apex
+* Size: N/A
+* Test suite: 45,000 functional test cases

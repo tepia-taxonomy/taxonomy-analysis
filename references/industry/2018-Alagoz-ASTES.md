@@ -9,3 +9,10 @@ I. Alagöz, T. Hoiss, R. German. Improving system reliability assessment of safe
 
 2 Relational information:
 * [System functions](../../attributes/relational/program/system-functions.md)
+
+# SUT information
+
+* Domain: Automotive
+* Language: N/A
+* Size: N/A
+* Test suite: system test cases

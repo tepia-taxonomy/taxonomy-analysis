@@ -9,3 +9,10 @@ A. Srivastava, J. Thiagarajan. Effectively prioritizing tests in development env
 
 2 Relational information:
 * [Change coverage](../../attributes/relational/test-case/coverage/change-coverage.md)
+
+# SUT information
+
+* Domain: Office application, parts of OS
+* Language: N/A
+* Size: 1.8M LOC (office application)
+* Test suite: 3,128 test cases

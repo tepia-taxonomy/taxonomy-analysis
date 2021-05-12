@@ -11,3 +11,10 @@ S. Haidry, T. Miller. Using dependency structures for prioritisation of function
 * [Additional coverage](../../attributes/relational/test-case/coverage/additional-coverage.md)
 * [Fault count](../../attributes/relational/fault/fault-count.md)
 * [Functional coverage](../../attributes/relational/test-case/coverage/functional-coverage.md)
+
+# SUT information
+
+* Domain: Various (voide recording, customer management, meteorological website, shell)
+* Language: N/A
+* Size: 2.5-59.8K LOC
+* Test suite: 64-1061 test cases

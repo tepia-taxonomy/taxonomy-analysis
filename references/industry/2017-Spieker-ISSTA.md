@@ -8,3 +8,7 @@ H. Spieker, A. Gotlieb. Reinforcement learning for automatic test case prioritiz
 * [Effectiveness](../../attributes/testing/test-case/report/effectiveness.md)
 * [Execution time](../../attributes/testing/test-case/execution/execution-time.md)
 * [Historical verdicts](../../attributes/testing/test-case/history/historical-verdicts.md)
+
+# Dataset information
+
+* ABB and GSDTSR datasets: https://bitbucket.org/HelgeS/atcs-data/src/master/

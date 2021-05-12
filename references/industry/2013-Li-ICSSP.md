@@ -13,3 +13,10 @@ Q. Li, B. Boehm. Improving scenario testing process by adding value-based priori
 
 3 Relational information:
 * [Risk exposure](../../attributes/relational/risk/risk-exposure.md)
+
+# SUT information
+
+* Domain: Software installation and update
+* Language: N/A
+* Size: N/A
+* Test suite: N/A

@@ -9,3 +9,9 @@ S. Wang, S. Ali, T. Yue, O. Bakkeli, M. Liaaen. Enhancing test case prioritizati
 * [Historical effectiveness](../../attributes/testing/test-case/history/historical-effectiveness.md)
 * [Resources](../../attributes/testing/test-case/property/resources.md)
 
+# SUT information
+
+* Domain: Video conferencing software
+* Language: C
+* Size: N/A
+* Test suite: 305 test cases

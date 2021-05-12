@@ -7,3 +7,7 @@ Z. Wu, Y. Yang. A time window based reinforcement learning reward for test case 
 1 Testing information:
 * [Effectiveness](../../attributes/testing/test-case/report/effectiveness.md)
 * [Historical verdicts](../../attributes/testing/test-case/history/historical-verdicts.md)
+
+# Dataset information
+
+* ABB and GSDTSR datasets: https://bitbucket.org/HelgeS/atcs-data/src/master/

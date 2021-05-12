@@ -12,3 +12,10 @@ R. Lachman, M. Nieke, C. Seidl, I. Schaefer, S. Schulze. System-level test case 
 * [Fault count](../../attributes/relational/fault/fault-count.md)
 * [Fault severity](../../attributes/relational/fault/fault-severity.md)
 * [Functional coverage](../../attributes/relational/test-case/coverage/functional-coverage.md)
+
+# SUT information
+
+* Domain: Automotive
+* Language: N/A
+* Size: N/A
+* Test suite: 10,000 test cases (only 645 really used)

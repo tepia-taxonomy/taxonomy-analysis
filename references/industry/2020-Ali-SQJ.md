@@ -10,3 +10,10 @@ S. Ali, Y. Hafeez, S. Hussain, S. Yang. Enhanced regression testing technique fo
 2 Relational information:
 * [Functional coverage](../../attributes/relational/test-case/coverage/functional-coverage.md)
 * [Change frequency](../../attributes/relational/change/change-frequency.md)
+
+# SUT information
+
+* Domain: Sales (customer relationship management), IT services
+* Language: Java
+* Size: 146K and 266K LOC
+* Test suite: 1234 and 1329 test cases

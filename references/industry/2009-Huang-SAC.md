@@ -11,3 +11,10 @@ S. Huang, Chen, J. Zhu, Z.J Li, H.F. Tan. An optimized change-driven regression 
 * [Change calls](../../attributes/relational/invocation/change-calls.md)
 * [Changed methods](../../attributes/relational/change/changed-methods.md)
 * [Functional coverage](../../attributes/relational/test-case/coverage/functional-coverage.md)
+
+# SUT information
+
+* Domain: N/A
+* Language: Java
+* Size: 14,065 LOC
+* Test suite: 165 test cases

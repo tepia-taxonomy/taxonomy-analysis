@@ -11,3 +11,10 @@ D. Marijan. Multi-perspective regression test prioritization for time-constraine
 2 Relational information:
 * [Fault severity](../../attributes/relational/fault/fault-severity.md)
 * [Functional coverage](../../attributes/relational/test-case/coverage/functional-coverage.md)
+
+# SUT information
+
+* Domain: Mobile
+* Language: Android
+* Size: 2,985-3,327 LOC
+* Test suite: 501-700 test cases

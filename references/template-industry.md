@@ -23,3 +23,8 @@ List of attributes appearing in this reference *(delete this text)*
 * [Attribute 2 name](attribute2 md file link)
 ...
 * [Attribute N name](attributeN md file link)
+
+# SUT or Dataset information
+
+* For SUT: domain, language, size, test suite characteristics
+* For datasets: Name or link to the industrial dataset

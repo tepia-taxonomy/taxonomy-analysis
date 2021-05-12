@@ -11,3 +11,10 @@ R. Carlson, H. Do, A. Denton. A clustering approach to improving test case prior
 * [Coverage distance](../../attributes/relational/test-case/coverage/coverage-distance.md)
 * [Fault count](../../attributes/relational/fault/fault-count.md)
 * [Functional coverage](../../attributes/relational/test-case/coverage/functional-coverage.md)
+
+# SUT information
+
+* Domain: Finance and operations
+* Language: C++ and X++
+* Size: 705K LOC
+* Test suite: 908 functional test cases

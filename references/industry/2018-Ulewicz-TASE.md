@@ -11,3 +11,10 @@ S. Ulewicz, B. Vogel-Heuser. Industrially applicable system regression test prio
 2 Relational information:
 * [Active blocks](../../attributes/relational/invocation/active-blocks.md)
 * [Project changes](../../attributes/relational/change/project-changes.md)
+
+# SUT information
+
+* Domain: Manufacturing
+* Language: SFC (sequential function chart)
+* Size: 15,500 LOC
+* Test suite: 14 system test cases
