@@ -5,7 +5,7 @@ A taxonomy of Test case Prioritisation Information Attributes
 
 ## Note
 
-This repository contains additional material to the paper entitled *A Taxonomy of Information Attributes for Test Case Prioritisation: Applicability, Machine Learning*, accepted for publication in ACM Transactions on Software Engineering and Methodology.
+This repository contains additional material to the paper entitled *A Taxonomy of Information Attributes for Test Case Prioritisation: Applicability, Machine Learning*, accepted for publication in ACM Transactions on Software Engineering and Methodology. DOI: https://doi.org/10.1145/3511805
 
 ## Description
 
